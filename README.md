@@ -1,4 +1,4 @@
-- 👋 **Hi I'm Nadaf Zakki**
+- 👋 **Hi, I'm Nadaf Zakki**
 - 👀 I’m interested in AI-Ml
 - 🌱 I’m currently learning Advancde computer vision and 
 - 💞️ I’m looking to collaborate on django projects
