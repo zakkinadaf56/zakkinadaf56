@@ -1,3 +1,4 @@
+![logo](https://github.com/zakkinadaf56/zakkinadaf56/blob/main/Logo.png)
 <h1 align="center">Hi 👋, I'm Zakki Nadaf</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
